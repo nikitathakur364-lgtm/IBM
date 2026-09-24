@@ -4,7 +4,7 @@
 
 ---
 
-**Author:** Almas Qureshi  
+**Author:** Nikita Thakur 
 **Programme:** IBM SkillsBuild Data Analytics with AI — Academic Virtual Internship  
 **In association with:** CSRBOX / BharatCares & AICTE  
 
@@ -62,8 +62,8 @@ IBM Project GPM/
 ├── requirements.txt                 # Pinned Python dependencies
 ├── README.md                        # This file
 │
-├── AlmasQureshi_GlobalRainfallEngine.ipynb   # Jupyter analysis notebook
-├── AlmasQureshi_ProjectReport.docx           # Auto-generated project report
+├── Nikitathakur_GlobalRainfallEngine.ipynb   # Jupyter analysis notebook
+├── Nikitathakur_ProjectReport.docx           # Auto-generated project report
 │
 ├── model_artifacts/                 # Generated after running train_model.py
 │   ├── rainfall_model.pkl           # Trained Gradient Boosting pipeline
