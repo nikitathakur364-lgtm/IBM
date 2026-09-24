@@ -137,7 +137,7 @@ Open **http://localhost:8501** in your browser.
 python generate_report.py
 ```
 
-Produces `AlmasQureshi_ProjectReport.docx` in the project root.
+Produces `Nikita Thakur_ProjectReport.docx` in the project root.
 
 ---
 
